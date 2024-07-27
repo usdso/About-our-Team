@@ -1,9 +1,6 @@
 **About Our Team - Sky Blockchain Technology Development Team**
 
-مقدمه:
 Welcome to the official page of the Sky Blockchain Technology Development Team. After years of immersion in the dynamic cryptocurrency industry, we proudly introduce the USDso token—a groundbreaking initiative designed to thrive on the Solana network. Our mission? To simplify business transactions, foster human-friendly interactions, and elevate enterprises, all while minimizing risk.
-
-بخش‌های اصلی:
 
 **About Us**:
 
