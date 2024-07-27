@@ -5,12 +5,15 @@ Welcome to the official page of the Sky Blockchain Technology Development Team. 
 **About Us**:
 
 The Sky Blockchain Technology Development Team is dedicated to leveraging the power of the Solana blockchain to create innovative and secure solutions for the cryptocurrency industry. Our flagship project, the USDso token, is designed to provide stability and efficiency in business transactions and to empower users with decentralized solutions.
-Meet Our Expert Team:
+
+**Meet Our Expert Team**:
 
 **Mr. Aein (Team Manager)**:
 
 Background: With extensive experience as a blockchain programmer and cryptocurrency analyst, Mr. Aein brings unparalleled insights to our project.
+
 Vision: He envisions a future where decentralized solutions empower businesses and individuals alike.
+
 Role: Leading the charge, Mr. Aein ensures that our team remains cohesive, innovative, and results-driven.
 
 **Analysts**:
@@ -20,15 +23,21 @@ Our analytical minds dissect market trends, assess risks, and identify growth op
 **Key Responsibilities**:
 
 Market analysis and trend forecasting
+
 Risk assessment and management
+
 Identifying potential growth opportunities
 
 **Programmers**:
 
 The backbone of our technical prowess, our programmers code, optimize, and build the USDso ecosystem. Their expertise ensures seamless functionality and robust security.
-Key Responsibilities:
+
+**Key Responsibilities**:
+
 Developing and maintaining smart contracts
+
 Optimizing blockchain interactions
+
 Ensuring the security and efficiency of the USDso token
 
 **Marketing Wizards**:
@@ -38,7 +47,9 @@ Crafting compelling narratives and spreading the word—our marketing team ensur
 **Key Responsibilities**:
 
 Developing marketing strategies and campaigns
+
 Creating content and managing social media
+
 Building and maintaining brand awareness
 
 **Our Mission**:
