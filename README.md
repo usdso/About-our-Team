@@ -16,7 +16,9 @@ Role: Leading the charge, Mr. Aein ensures that our team remains cohesive, innov
 **Analysts**:
 
 Our analytical minds dissect market trends, assess risks, and identify growth opportunities. They keep us informed and agile, ensuring that our strategies are data-driven and effective.
-Key Responsibilities:
+
+**Key Responsibilities**:
+
 Market analysis and trend forecasting
 Risk assessment and management
 Identifying potential growth opportunities
